@@ -77,12 +77,15 @@ The chart below focuses on the core salary band where **most respondents actuall
 ---
 
 ## 📁 Project Structure
+
+```
 workforce_compensation_wrangling/
-│── README.md
-│── requirements.txt
-│── workforce_compensation_data_wrangling.ipynb
-│── images/ (optional visual exports)
-│── data/ (optional — if allowed; otherwise referenced only)
+├── README.md
+├── requirements.txt
+├── workforce_compensation_data_wrangling.ipynb
+├── images/                 (optional visual exports)
+└── data/                   (optional — if allowed; otherwise referenced only)
+```
 
 
 ---
